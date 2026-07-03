@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_API_020 — Response returns valid content type header

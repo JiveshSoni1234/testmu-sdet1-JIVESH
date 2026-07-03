@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_LOGIN_021 — Accessing admin panel URL without login redirects to login

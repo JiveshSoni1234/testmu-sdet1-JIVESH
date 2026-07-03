@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_LOGIN_020 — Accessing dashboard URL without login redirects to login

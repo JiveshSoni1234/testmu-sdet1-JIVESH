@@ -1,0 +1,7 @@
+## 🤖 AI Failure Analysis
+
+**Root Cause:** LLM analysis failed: 429 You do not have enough quota to make this request.
+
+**Suggested Fix:** N/A — check GEMINI_API_KEY and network access.
+
+**Severity:** unknown | **Confidence:** low | **Category:** unknown

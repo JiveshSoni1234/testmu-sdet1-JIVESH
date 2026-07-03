@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_DASH_006 — User profile dropdown is accessible

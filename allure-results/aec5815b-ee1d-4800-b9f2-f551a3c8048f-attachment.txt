@@ -1,0 +1,2 @@
+AfterEach Hook -> TC_API_011 — 404: Non-existent page returns 404 or redirect
+AfterEach Hook -> TC_API_011 — 404: Non-existent page returns 404 or redirect

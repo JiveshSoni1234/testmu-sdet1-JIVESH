@@ -1,0 +1,2 @@
+AfterEach Hook -> TC_LOGIN_013 — Clicking Forgot Password navigates to reset page
+AfterEach Hook -> TC_LOGIN_013 — Clicking Forgot Password navigates to reset page

@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_DASH_008 — Clicking Admin in sidebar navigates to Admin panel

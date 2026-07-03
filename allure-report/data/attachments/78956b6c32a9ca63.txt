@@ -1,0 +1,2 @@
+AfterEach Hook -> TC_API_005 — Response Content-Type is text/html or application/json
+AfterEach Hook -> TC_API_005 — Response Content-Type is text/html or application/json

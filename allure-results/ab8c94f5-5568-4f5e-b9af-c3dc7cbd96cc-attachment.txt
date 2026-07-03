@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_LOGIN_011 — SQL injection in username does not crash app

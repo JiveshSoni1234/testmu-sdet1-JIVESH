@@ -1,0 +1,2 @@
+AfterEach Hook -> TC_API_012 — 404: Non-existent API endpoint returns error
+AfterEach Hook -> TC_API_012 — 404: Non-existent API endpoint returns error

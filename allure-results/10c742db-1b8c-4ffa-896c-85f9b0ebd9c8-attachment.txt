@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_LOGIN_009 — Empty password shows required validation

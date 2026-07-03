@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_DASH_018 — Unauthenticated user cannot access admin panel

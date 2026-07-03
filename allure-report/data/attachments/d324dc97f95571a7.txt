@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_DASH_003 — Time at Work widget is present

@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_LOGIN_012 — Forgot Password link is visible on login page

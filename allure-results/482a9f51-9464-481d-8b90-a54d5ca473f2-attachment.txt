@@ -1,0 +1,1 @@
+AfterEach Hook -> TC_LOGIN_010 — Both fields empty shows validation errors

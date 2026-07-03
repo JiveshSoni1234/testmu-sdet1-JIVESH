@@ -1,0 +1,2 @@
+AfterEach Hook -> TC_API_004 — API base URL is reachable
+AfterEach Hook -> TC_API_004 — API base URL is reachable
